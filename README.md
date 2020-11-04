@@ -5,7 +5,13 @@
 ## Selectors
 
 | Selectors     | CSS Syntax    |
-| ------------- |:-------------:|
-| Universal     | ```* {} ```   |
-|               |               |
-|               |               |
+| ---------------- |:-------------------------------------:|
+| Universal        | ```* {} ```                           |
+| ID               | ``` #ID {} ```                        |
+| Class            | ``` .class {} ```                     |
+| Type             | ``` h1, h2, h3 {} ```                 |
+| Adjacent Sibling | ``` h1 + p {} ```                     |
+| Child            | ``` ul > li {} ```                    |
+| General Sibling  | ``` h1 ~ p {} ```                     |
+| Descendant       | ``` p a {} ```                        |
+| Atrribute        | ``` div[attribute="somevalue"] {} ``` |
