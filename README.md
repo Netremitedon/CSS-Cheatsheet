@@ -71,3 +71,13 @@
 | Border Colour | ``` border-color: #2AA9E0 ``` |
 | Padding | ``` padding: 2px 4px 6px 8px ``` |
 | Border Width | ``` border-width: 10px ```|
+
+## List Styling
+
+| Selectors             | CSS Syntax                                          |
+| ----------------------|:---------------------------------------------------:|
+| List Type             | ``` list-style-type: disc, circle, square, none ``` |
+| List Position         | ``` list-style-position: inside, outside ```        |
+| List Image            | ``` list-style-image: url() ```                     |
+
+
