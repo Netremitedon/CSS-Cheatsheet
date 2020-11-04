@@ -40,3 +40,17 @@
 | Before Element                 | ``` .class::before {} ```             |
 | After Element                  | ``` .class::after {} ```              |
 
+## Position
+
+| Selectors            | CSS Syntax                                                     |
+| ---------------------|:--------------------------------------------------------------:|
+| Position             | ```position: static | relative | absolute | fixed | sticky ``` |
+| Properties           | ``` top | right | bottom | left ```                            |
+| Float                | ``` float" left|right|none ```                                 |
+| Clear float          | ``` clear: none|left|right|both ```                            |
+| Z index              | ``` z-index: 3 | auto | inherit                                |
+
+
+
+
+
