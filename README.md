@@ -4,7 +4,7 @@
 
 ## Selectors
 
-| Selectors     | CSS Syntax    |
+| Selectors        | CSS Syntax                            |
 | ---------------- |:-------------------------------------:|
 | Universal        | ```* {} ```                           |
 | ID               | ``` #ID {} ```                        |
@@ -15,3 +15,28 @@
 | General Sibling  | ``` h1 ~ p {} ```                     |
 | Descendant       | ``` p a {} ```                        |
 | Atrribute        | ``` div[attribute="somevalue"] {} ``` |
+
+## Pseudo Selectors & Elements
+
+| Selectors                      | CSS Syntax                            |
+| ------------------------------ |:-------------------------------------:|
+| Mouse Over                     | ```a:hover {} ```                     |
+| Active Link                    | ``` a:active {} ```                   |
+| Focus                          | ``` input:focus {} ```                |
+| Visited Link                   | ``` a:visited {} ```                  |
+| Link                           | ``` .class:link {} ```                |
+| checked Elements               | ``` input:checked {} ```              |
+| Disabled                       | ``` input:disabled {} ```             |
+| Enabled                        | ``` input:enabled {} ```              |
+| Not a specified Element        | ``` :not(p) {} ```                    |
+| First Line                     |  ``` p""first-line {} ```             |
+| First Letter                   | ``` p::first-letter {} ```            |
+| First Child                    | ``` p:first-child {} ```              |
+| Last Child                     | ``` p:last-child {} ```               |
+| Only Child                     | ``` p:only-child {} ```               |
+| :nth-child                     | ``` p:nth-child() {} ```              |
+| First Element of its parent    | ``` p:first-of-type ```               |
+| Elements that have no children | ``` p:empty {} ```                    |
+| Before Element                 | ``` .class::before {} ```             |
+| After Element                  | ``` .class::after {} ```              |
+
