@@ -61,5 +61,13 @@
 | Background Colour     | ``` background-color: #2AA9E0 ```                                              |
 | Background Position   | ``` background-position: top, right, bottom, left, center ```                  |
 
+## Box
 
-
+| Selectors             | CSS Syntax                                                                     |
+| ----------------------|:------------------------------------------------------------------------------:|
+| Box Sizing     | ```bpx-sizing: border-box, content-box ```                                                 |
+| Margin |  ```margin: 2px 4px 6px 8px, 0 auto |
+| Border Style | ``` border-style: none, hidden, dotted, dashed, solid, double, grove, ridge, inset, outset ``` |
+| Border Colour | ``` border-color: #2AA9E0 ``` |
+| Padding | ``` padding: 2px 4px 6px 8px ``` |
+| Border Width | border-width: 10px |
