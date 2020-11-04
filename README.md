@@ -51,6 +51,15 @@
 | Z index              | ``` z-index: 3  auto  inherit ```                              |
 
 
+## Background
+
+| Selectors             | CSS Syntax                                                                     |
+| ----------------------|:------------------------------------------------------------------------------:|
+| Background Image      | ```background-image: url() ```                                                 |
+| Background Repeat     | ``` background-repeat: repeat-x, repeat-z, repeat, space, round, no-repeat ``` |
+| Background Attachment | ``` background-attachment : scroll, fixed, local, inital, inherit ```          |
+| Background Colour     | ``` background-color: #2AA9E0 ```                                              |
+| Background Position   | ``` background-position: top, right, bottom, left, center ```                  |
 
 
 
