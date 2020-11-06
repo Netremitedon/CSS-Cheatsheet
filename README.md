@@ -80,4 +80,13 @@
 | List Position         | ``` list-style-position: inside, outside ```        |
 | List Image            | ``` list-style-image: url() ```                     |
 
+## Text Styling
+
+| Selectors             | CSS Syntax                                          |
+| ----------------------|:---------------------------------------------------:|
+| Font Style            | ``` font-style: normal, italic, oblique ```         |
+| Font Variant          | ``` font-variant: noraml, small-caps ```            |
+| Font Weight           | ``` font-weight: normal, bold, bolder, lighter, 100 - 900 ```                     |
+|
+
 
