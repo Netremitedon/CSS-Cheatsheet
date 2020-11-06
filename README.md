@@ -92,6 +92,14 @@
 | Line Height              | ``` line-height: normal, 3em, 34% ``` |
 | Horizontal Alignment | ``` test-align: left, right, center, justify ``` |
 | Vertical Alignment | ``` vertical-align: baseline, 10px, sub, super, top, text-top, middle, bottom, text-bottom, initial ``` |
+| Text Transform | ``` text-transform: capitalise, lowercase, uppercase ``` |
+| Text Align Last | ``` text-align-last: auto, left, right, center, justify, start, end, initial, inherit ``` |
+| Text Decoration | ``` text-decoration: none, underline, overline, line-through ``` |
+| Indent First Line | ``` text-indent: 25px ``` |
+| Font Family | ``` font-family: 'Open Sans', sans-serif ``` |
+| Text Justify | ``` text-justify: auto, inter-word, inter-character, none, initial, inherit ``` |
+| Text Overflow | ``` text-overflow: clip, ellipsis | string, initial, inherit ``` |
+| Text Shadow | ``` text-shadow: h-shadow, v-shadow, blur-radius color, none, initial, inherit ``` |
 
 
 
