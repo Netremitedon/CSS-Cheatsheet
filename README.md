@@ -82,11 +82,16 @@
 
 ## Text Styling
 
-| Selectors             | CSS Syntax                                          |
-| ----------------------|:---------------------------------------------------:|
-| Font Style            | ``` font-style: normal, italic, oblique ```         |
-| Font Variant          | ``` font-variant: noraml, small-caps ```            |
-| Font Weight           | ``` font-weight: normal, bold, bolder, lighter, 100 - 900 ```                     |
-|
+| Selectors             | CSS Syntax                                                      |
+| ----------------------|:---------------------------------------------------------------:|
+| Font Style            | ``` font-style: normal, italic, oblique ```                     |
+| Font Variant          | ``` font-variant: noraml, small-caps ```                        |
+| Font Weight           | ``` font-weight: normal, bold, bolder, lighter, 100 - 900 ```   |
+| Font Size             | ``` font-size: 12px, 0.8em, 80% ```                             |
+| Space Between Characters | ``` letter-spacing: normal, 4px ``` |
+| Line Height              | ``` line-height: normal, 3em, 34% ``` |
+| Horizontal Alignment | ``` test-align: left, right, center, justify ``` |
+| Vertical Alignment | ``` vertical-align: baseline, 10px, sub, super, top, text-top, middle, bottom, text-bottom, initial ``` |
+
 
 
