@@ -102,4 +102,14 @@
 | Text Shadow              | ``` text-shadow: h-shadow, v-shadow, blur-radius color, none, initial, inherit ```                      |
 
 
+## Dynamic Content
+
+| Selectors | CSS Syntax |
+| ----------|:----------:|
+| CSS Variable | ``` --variable-name: value ``` |
+| Variable Usuage | ``` var(--variable-name) ``` |
+| Counter Reset | ``` counter-reset: name-of-counter ``` |
+| Counter Increment | ``` counter-increment: name-of-counter ``` |
+| Counter Dynamic Value | ``` content: counter(name-of-counter) ``` |
+| Attribute Dynamic Value | ``` content: attr(name-of-attribute) ``` |
 
